@@ -2,4 +2,4 @@
 uus kansio
 olen juha 20v jee 
 
-Muokattu
+Muokattu jo kjasasdasdasdsadsad
