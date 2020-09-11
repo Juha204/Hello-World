@@ -1,6 +1,6 @@
 # Hello-World
 uus kansio asdasdasd
-
+cheryrpick testi haluan tämä master 1 branchiin
 
 Muokattu jo kjasasdasdasdsadsad
 muokattu over lap 11.09
